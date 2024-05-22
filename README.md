@@ -1,6 +1,3 @@
-Sure, here's the full `README.md` file for your project:
-
-
 # Muller Library
 
 The `Muller` library is a Solidity library that provides functions for handling fractional numbers and their multiplication. It offers a new approach to multiplying two numbers without risking overflow and without fully supporting floating-point numbers.

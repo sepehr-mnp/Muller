@@ -118,10 +118,3 @@ Here's an example of a TypeScript test file to test the `getMulRateContract`:
   });
 
 ```
-
-## License
-
-This project is licensed under the MIT License.
-
-
-This `README.md` file provides an overview of the `Muller` library, how to use it, how to test it, and includes an example of a TypeScript test file using Hardhat. Adjust paths and configurations as needed to fit your project's structure and setup.
